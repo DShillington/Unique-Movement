@@ -1,0 +1,145 @@
+itemGroup.tabMovement=Unique Movement Mod Stuff
+
+entity.uniquemovement.segway_white.name=White Segway
+entity.uniquemovement.segway_blue.name=Blue Segway
+entity.uniquemovement.segway_green.name=Green Segway
+entity.uniquemovement.segway_orange.name=Orange Segway
+entity.uniquemovement.segway_pink.name=Pink Segway
+entity.uniquemovement.segway_purple.name=Purple Segway
+entity.uniquemovement.segway_red.name=Red Segway
+entity.uniquemovement.segway_yellow.name=Yellow Segway
+
+entity.uniquemovement.swegway_white.name=White Swegway
+entity.uniquemovement.swegway_blue.name=Blue Swegway
+entity.uniquemovement.swegway_green.name=Green Swegway
+entity.uniquemovement.swegway_orange.name=Orange Swegway
+entity.uniquemovement.swegway_pink.name=Pink Swegway
+entity.uniquemovement.swegway_purple.name=Purple Swegway
+entity.uniquemovement.swegway_red.name=Red Swegway
+entity.uniquemovement.swegway_yellow.name=Yellow Swegway
+
+entity.uniquemovement.hoverboard_white.name=White Hoverboard
+entity.uniquemovement.hoverboard_blue.name=Blue Hoverboard
+entity.uniquemovement.hoverboard_green.name=Green Hoverboard
+entity.uniquemovement.hoverboard_orange.name=Orange Hoverboard
+entity.uniquemovement.hoverboard_pink.name=Pink Hoverboard
+entity.uniquemovement.hoverboard_purple.name=Purple Hoverboard
+entity.uniquemovement.hoverboard_red.name=Red Hoverboard
+entity.uniquemovement.hoverboard_yellow.name=Yellow Hoverboard
+entity.uniquemovement.hoverboard_mcfly.name=Martys Hoverboard
+
+entity.uniquemovement.unicycle_white.name=White Unicycle
+entity.uniquemovement.unicycle_blue.name=Blue Unicycle
+entity.uniquemovement.unicycle_green.name=Green Unicycle
+entity.uniquemovement.unicycle_orange.name=Orange Unicycle
+entity.uniquemovement.unicycle_pink.name=Pink Unicycle
+entity.uniquemovement.unicycle_purple.name=Purple Unicycle
+entity.uniquemovement.unicycle_red.name=Red Unicycle
+entity.uniquemovement.unicycle_yellow.name=Yellow Unicycle
+
+entity.uniquemovement.tardis.name=TARDIS
+
+entity.uniquemovement.bmx_white.name=White BMX
+entity.uniquemovement.bmx_blue.name=Blue BMX
+entity.uniquemovement.bmx_green.name=Green BMX
+entity.uniquemovement.bmx_orange.name=Orange BMX
+entity.uniquemovement.bmx_pink.name=Pink BMX
+entity.uniquemovement.bmx_purple.name=Purple BMX
+entity.uniquemovement.bmx_red.name=Red BMX
+entity.uniquemovement.bmx_yellow.name=Yellow BMX
+
+entity.uniquemovement.cargo_boat.name=Cargo Boat [WIP]
+
+entity.uniquemovement.aventador_white.name=White Aventador
+entity.uniquemovement.aventador_blue.name=Blue Aventador
+entity.uniquemovement.aventador_green.name=Green Aventador
+entity.uniquemovement.aventador_orange.name=Orange Aventador
+entity.uniquemovement.aventador_pink.name=Pink Aventador
+entity.uniquemovement.aventador_purple.name=Purple Aventador
+entity.uniquemovement.aventador_red.name=Red Aventador
+entity.uniquemovement.aventador_yellow.name=Yellow Aventador
+
+entity.uniquemovement.hovercraft_white.name=White Hovercraft
+entity.uniquemovement.hovercraft_blue.name=Blue Hovercraft
+entity.uniquemovement.hovercraft_green.name=Green Hovercraft
+entity.uniquemovement.hovercraft_orange.name=Orange Hovercraft
+entity.uniquemovement.hovercraft_pink.name=Pink Hovercraft
+entity.uniquemovement.hovercraft_purple.name=Purple Hovercraft
+entity.uniquemovement.hovercraft_red.name=Red Hovercraft
+entity.uniquemovement.hovercraft_yellow.name=Yellow Hovercraft
+
+item.helmet.name=Helmet
+item.plastic_dust.name=Plastic Dust
+item.plastic_hard.name=Hardened Plastic
+item.wheel.name=Wheel
+
+item.segway_white.name=White Segway
+item.segway_blue.name=Blue Segway
+item.segway_green.name=Green Segway
+item.segway_orange.name=Orange Segway
+item.segway_pink.name=Pink Segway
+item.segway_purple.name=Purple Segway
+item.segway_red.name=Red Segway
+item.segway_yellow.name=Yellow Segway
+
+item.swegway_white.name=White Swegway
+item.swegway_blue.name=Blue Swegway
+item.swegway_green.name=Green Swegway
+item.swegway_orange.name=Orange Swegway
+item.swegway_pink.name=Pink Swegway
+item.swegway_purple.name=Purple Swegway
+item.swegway_red.name=Red Swegway
+item.swegway_yellow.name=Yellow Swegway
+
+item.hoverboard_white.name=White Hoverboard
+item.hoverboard_blue.name=Blue Hoverboard
+item.hoverboard_green.name=Green Hoverboard
+item.hoverboard_orange.name=Orange Hoverboard
+item.hoverboard_pink.name=Pink Hoverboard
+item.hoverboard_purple.name=Purple Hoverboard
+item.hoverboard_red.name=Red Hoverboard
+item.hoverboard_yellow.name=Yellow Hoverboard
+item.hoverboard_mcfly.name=Martys Hoverboard
+item.hoverboard_popularmmo.name=PopularMMO's Hoverboard
+item.hoverboard_supergirlygamer.name=SuperGirlyGamer's Hoverboard
+
+item.unicycle_white.name=White Unicycle
+item.unicycle_blue.name=Blue Unicycle
+item.unicycle_green.name=Green Unicycle
+item.unicycle_orange.name=Orange Unicycle
+item.unicycle_pink.name=Pink Unicycle
+item.unicycle_purple.name=Purple Unicycle
+item.unicycle_red.name=Red Unicycle
+item.unicycle_yellow.name=Yellow Unicycle
+
+item.tardis.name=TARDIS
+
+item.bmx_white.name=White BMX
+item.bmx_blue.name=Blue BMX
+item.bmx_green.name=Green BMX
+item.bmx_orange.name=Orange BMX
+item.bmx_pink.name=Pink BMX
+item.bmx_purple.name=Purple BMX
+item.bmx_red.name=Red BMX
+item.bmx_yellow.name=Yellow BMX
+
+item.aventador_white.name=White Aventador
+item.aventador_blue.name=Blue Aventador
+item.aventador_green.name=Green Aventador
+item.aventador_orange.name=Orange Aventador
+item.aventador_pink.name=Pink Aventador
+item.aventador_purple.name=Purple Aventador
+item.aventador_red.name=Red Aventador
+item.aventador_yellow.name=Yellow Aventador
+
+item.hovercraft_white.name=White Hovercraft
+item.hovercraft_blue.name=Blue Hovercraft
+item.hovercraft_green.name=Green Hovercraft
+item.hovercraft_orange.name=Orange Hovercraft
+item.hovercraft_pink.name=Pink Hovercraft
+item.hovercraft_purple.name=Purple Hovercraft
+item.hovercraft_red.name=Red Hovercraft
+item.hovercraft_yellow.name=Yellow Hovercraft
+
+item.cargo_boat.name=Cargo Boat [WIP]
+item.engine.name=Engine
